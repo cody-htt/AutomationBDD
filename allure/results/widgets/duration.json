@@ -1,0 +1,21 @@
+[ {
+  "uid" : "3a75cc59a65608f9",
+  "name" : "Registration with valid data",
+  "time" : {
+    "start" : 1626884578591,
+    "stop" : 1626884581441,
+    "duration" : 2850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0bd661e25c2840f",
+  "name" : "Registration with duplicate username data",
+  "time" : {
+    "start" : 1626884581441,
+    "stop" : 1626884581825,
+    "duration" : 384
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
