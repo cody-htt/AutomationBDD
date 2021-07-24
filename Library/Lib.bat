@@ -1,3 +1,3 @@
 pip install behave
-pip install behave-allure
+pip install allure-behave
 pip install selenium
