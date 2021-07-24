@@ -2,7 +2,7 @@ from selenium.webdriver import Chrome
 
 
 def before_all(context):
-    driver_path = 'F:\\9. Python Selenium RobotFW - Automation Project (Study)\\chromedriver.exe'
+    driver_path = './Drivers/chromedriver.exe'
     context.driver = Chrome(executable_path=driver_path)
 
 
